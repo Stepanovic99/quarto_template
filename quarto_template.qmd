@@ -30,12 +30,8 @@ execute:
 
 
 ::: column-margin
-Therefore, survival function and hazard function are related.
-:::
-
-::: callout-note
-Cox proportional hazard model is a semi-parametric model, as it makes a parametric assumption regarding the effect of the predictors on the hazard function $\lambda(t)$, but makes no assumption on the hazard function (e.g. constant like in the exponential model, Weibull).
-:::
+This a note that appears on the right side of the text.
+:::  
 
 
 # References {.unnumbered}
