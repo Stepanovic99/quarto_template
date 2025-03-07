@@ -22,7 +22,6 @@ format:
     code-block-border-left: "#31BAE9"
     reference-location: margin
     fig-cap-location: margin
-
 execute:
   warning: false
   message: false
